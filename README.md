@@ -1,0 +1,2 @@
+# errorz
+Golang structured errors
